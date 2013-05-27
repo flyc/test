@@ -53,7 +53,5 @@ int main(int argc, char** argv)
 	std::cout<<_LOG_DEBUG_DIR_<<_LOG_DEBUG_OVERDUE<<std::endl;
 	CLogDir dir(_LOG_DEBUG_DIR_, _LOG_DEBUG_OVERDUE);
 	
-	printf("xixi");
-
 	return 0;
 }
